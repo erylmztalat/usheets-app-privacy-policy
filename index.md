@@ -31,7 +31,17 @@ You have the right to:
 - Delete your data (see our Data Deletion section)
 
 ## Data Deletion
-To request deletion of your personal data, please email [erylmz.talat@gmail.com].
+
+To request deletion of your personal data from our application:
+
+1. Send an email to erylmz.talat@gmail.com with the subject line "Data Deletion Request"
+2. Include the email address associated with your account
+3. We will process your request within 30 days and confirm when your data has been deleted
+
+Alternatively, you can delete your account directly from the application by:
+1. Going to Account Settings
+2. Clicking on "Delete Account"
+3. Confirming your choice
 
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time.
